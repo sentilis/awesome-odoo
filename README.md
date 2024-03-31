@@ -75,7 +75,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 * [Odoo Module Packaging](https://github.com/sentilis/awesome-odoo/blob/master/tools/packaging.py) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
 * [odoo Module Community](https://github.com/sentilis/awesome-odoo/blob/master/tools/publish.sh) - This script is ideal for a private repository that publishes modules to a public repository for read only.
-
+* [OpenUpgrade](https://github.com/OCA/OpenUpgrade) - Aims to provide an Open Source upgrade path for Odoo. This is  initiative under the OCA umbrella.
 ### Developers
 
 * [Odoo celery](https://github.com/novacode-nl/odoo-celery) - Connect Odoo (API) with Celery (Distributed Task Queue)
