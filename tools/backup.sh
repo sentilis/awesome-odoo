@@ -16,7 +16,7 @@ arg4, Backup format  zip or dump
 arg5, Location to save the backup
 "
     echo "How to use?
-backup.sh http://localhost:8069 admin demo zip ./
+backup.sh http://localhost:8069 master-pass db-name zip ./
 "    
 }
 function backup_request(){

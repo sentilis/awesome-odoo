@@ -43,7 +43,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ### Website
 
-* [MercadoPago](https://github.com/ctmil/payment_mercadopago) - MercadoPago payment module for Odoo Ecommerce
+* [MercadoPago](https://github.com/ctmil/payment_mercadopago) - MercadoPago payment module for Odoo e-commerce, it works in all countries.
 
 ### Sales
 
@@ -59,11 +59,9 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 <!-- ## Communication -->
 
-* [Slack notification](https://github.com/maxsbiz/odoo/tree/11.0/msb_slack) - Send notification by Webhook (channel messages, Messages direct & chatter field tracking)
-
 ### Timesheet
 
-* [Gnome-Pomodoro-Tracking](https://github.com/gnome-pomodoro/gnome-pomodoro-tracking) - It is a connector to record time entries in projects or tasks, using RPC.
+* [Gnome-Pomodoro-Tracking](https://github.com/gnome-pomodoro/gnome-pomodoro-tracking) - Connector that helps record time entries using the pomodoro technique. Only available for Linux.
 
 <!-- ## Marketing -->
 
@@ -75,8 +73,8 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ### DevOps
 
-* [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
-* [odoo Module Community](https://gist.github.com/josehbez/a0790e91bd807ca174834fb67c3e0e8c) - This script is ideal for a private repository that publishes modules to a public repository for read only.
+* [Odoo Module Packaging](https://github.com/sentilis/awesome-odoo/blob/master/tools/packaging.py) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
+* [odoo Module Community](https://github.com/sentilis/awesome-odoo/blob/master/tools/publish.sh) - This script is ideal for a private repository that publishes modules to a public repository for read only.
 
 ### Developers
 
