@@ -37,9 +37,11 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 * [DevOps](#devops)
 * [Developers](#developers)
 * [Resources](#resources)
-  * [Twitter](#twitter)
+  * [Official](#official)
+  * [X](#X)
   * [Facebook](#facebook)  
   * [Reddit](#reddit)
+  
 
 ### Website
 
@@ -83,9 +85,24 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 * [Kodoo](https://github.com/chermed/kodoo) - Terminal UI for Odoo
 * [go-odoo](https://github.com/skilld-labs/go-odoo) - Golang wrapper for Odoo API
 
+## Resources
 
-### Twitter
-* [@Odoo](https://twitter.com/Odoo)
+### Official
+
+* https://www.reddit.com/r/Odoo/ - Reddit
+* https://www.odoo.com/event - Training Events
+* https://www.odoo.fm - Podcast
+* https://twitter.com/Odoo - X
+* https://www.linkedin.com/company/odoo -Linkedin
+* https://www.instagram.com/odoo.official - Instagram
+* https://www.facebook.com/odoo - Facebook
+* https://www.tiktok.com/@odoo - Tiktok 
+* https://github.com/odoo/odoo - Github
+* https://www.odoo.com/page/docs - Documentation 
+* https://www.odoo.com/elearning - Tutorials
+
+### X
+
 * [@OdooStatus](https://twitter.com/OdooStatus)
 * [@Odoo_Events](https://twitter.com/Odoo_Events)
 * [@OdooCommunity](https://twitter.com/OdooCommunity)
@@ -94,7 +111,3 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ### Facebook
 * [Odoo Developers](https://www.facebook.com/groups/440544916386445)
-
-### Reddit
-
-* [r/Odoo](https://www.reddit.com/r/Odoo/)
