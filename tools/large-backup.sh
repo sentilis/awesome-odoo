@@ -37,9 +37,9 @@ function full(){
     echo "Filestore: $filestore"
 
     tmp_dir="$backup_dir/$pg_db"    
-    #if [ -d $tmp_dir ]; then
-    #    rm -r $tmp_dir
-    #fi 
+    if [ -d $tmp_dir ]; then
+       rm -r $tmp_dir
+    fi 
     mkdir -p "$tmp_dir"
     echo "Backup tmp: $tmp_dir"
     
@@ -57,6 +57,16 @@ function full(){
     rm -vr "$tmp_dir/$pg_db"
     rm $tmp_dir_dump
     echo "Backup file: $backup_file"
+    counter=0
+    for item in $(ls -t $tmp_dir/*.tar.gz)
+    do
+        ((counter++))
+        if [ $counter -le 5 ]; then 
+            continue
+        fi
+        rm $item
+        echo "Remove old backup ($counter): $item"
+    done
 }
 
 
