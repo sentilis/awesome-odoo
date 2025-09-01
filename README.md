@@ -84,6 +84,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 * [backup.sh](https://medium.com/@josehbez/simple-cli-odoo-backup-60d91bc3b9ec) - Bash script that uses the default URL /web/database/backup to generate backups.
 * [Kodoo](https://github.com/chermed/kodoo) - Terminal UI for Odoo
 * [go-odoo](https://github.com/skilld-labs/go-odoo) - Golang wrapper for Odoo API
+* [Zenoo RPC](https://github.com/tuanle96/zenoo-rpc) - A modern async Python library for Odoo with type safety, intelligent caching, AI integration, and 600x+ performance improvements.
 
 ## Resources
 
