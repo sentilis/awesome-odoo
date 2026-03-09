@@ -23,6 +23,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ## Table of Contents
 
+* [AI](#ai)
 * [Website](#website)
 * [Sales](#sales)
 <!-- * [Finance](#finances) -->
@@ -42,6 +43,8 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
   * [Facebook](#facebook)  
   * [Reddit](#reddit)
   
+### AI
+- [System Prompt for Version Migration](https://github.com/sentilis/awesome-odoo/prompts/migrate-odoo-modules.md) - Stop Rewriting Odoo Modules by Hand: A System Prompt for Version Migration.
 
 ### Website
 
