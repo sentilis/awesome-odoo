@@ -44,7 +44,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
   * [Reddit](#reddit)
   
 ### AI
-- [System Prompt for Version Migration](https://github.com/sentilis/awesome-odoo/prompts/migrate-odoo-modules.md) - Stop Rewriting Odoo Modules by Hand: A System Prompt for Version Migration.
+- [System Prompt for Version Migration](https://github.com/sentilis/awesome-odoo/blob/master/prompts/migrate-odoo-modules.md) - Stop Rewriting Odoo Modules by Hand: A System Prompt for Version Migration.
 
 ### Website
 
